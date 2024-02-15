@@ -1,10 +1,10 @@
-![Introduction](..\Figures\Intro_1.png)
-![Alt text](\Attendance-esp-32\Figures\Intro_1.png)
-![Alt text](..\Figures\Intro_3.png)
-![Alt text](..\Figures\Intro_4.png)
-![Alt text](..\Figures\Intro_5.png)
-![Alt text](..\Figures\Intro_6.png)
-![Alt text](..\Figures\Intro_7.png)
+![Introduction](Figures/Intro_1.png)
+![Alt text](Figures/Intro_2.png)
+![Alt text](Figures/Intro_3.png)
+![Alt text](Figures/Intro_4.png)
+![Alt text](Figures/Intro_5.png)
+![Alt text](Figures/Intro_6.png)
+![Alt text](Figures/Intro_7.png)
 <br>
 **References:**<br>
 [1] Face Attendance Course by Computer Vision<br>
